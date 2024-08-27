@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-shose-filter-project/static/css/main.63df7cbb.css",
+    "main.js": "/react-shose-filter-project/static/js/main.9e5d50e1.js",
+    "index.html": "/react-shose-filter-project/index.html",
+    "main.63df7cbb.css.map": "/react-shose-filter-project/static/css/main.63df7cbb.css.map",
+    "main.9e5d50e1.js.map": "/react-shose-filter-project/static/js/main.9e5d50e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63df7cbb.css",
+    "static/js/main.9e5d50e1.js"
+  ]
+}
